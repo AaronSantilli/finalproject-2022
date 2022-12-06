@@ -1,0 +1,29 @@
+nav ul{
+    list-style: none;
+}
+
+a {
+    margin: 5px;
+    padding: 5px;
+    display: block;
+
+}
+
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+    background-color: white;
+
+}
+
+img{
+    max-width: 250px;
+    max-height: 250px;
+    
+}
+
